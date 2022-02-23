@@ -1,0 +1,5 @@
+Username : admin
+Password : janganlupabahagia
+
+Nama Database : inventory.sql
+Nama Folder : inventory
